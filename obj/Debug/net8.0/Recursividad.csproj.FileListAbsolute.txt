@@ -1,0 +1,14 @@
+C:\Users\sharonmarroquin\source\repos\Recursividad\bin\Debug\net8.0\Recursividad.exe
+C:\Users\sharonmarroquin\source\repos\Recursividad\bin\Debug\net8.0\Recursividad.deps.json
+C:\Users\sharonmarroquin\source\repos\Recursividad\bin\Debug\net8.0\Recursividad.runtimeconfig.json
+C:\Users\sharonmarroquin\source\repos\Recursividad\bin\Debug\net8.0\Recursividad.dll
+C:\Users\sharonmarroquin\source\repos\Recursividad\bin\Debug\net8.0\Recursividad.pdb
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\Recursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\Recursividad.AssemblyInfoInputs.cache
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\Recursividad.AssemblyInfo.cs
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\Recursividad.dll
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\refint\Recursividad.dll
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\Recursividad.pdb
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\Recursividad.genruntimeconfig.cache
+C:\Users\sharonmarroquin\source\repos\Recursividad\obj\Debug\net8.0\ref\Recursividad.dll
